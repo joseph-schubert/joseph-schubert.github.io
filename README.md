@@ -1,1 +1,0 @@
-# joseph-schubert.github.io
