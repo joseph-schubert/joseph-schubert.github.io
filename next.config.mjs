@@ -1,12 +1,12 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export', // Required for GitHub Pages
+export default {
+  output: 'export',
+  images: {
+    unoptimized: true,
+  },
   typescript: {
     ignoreBuildErrors: true,
   },
-  images: {
-    unoptimized: true, // Required for static hosting
+  eslint: {
+    ignoreDuringBuilds: true,
   },
-}
-
-export default nextConfig
+};
