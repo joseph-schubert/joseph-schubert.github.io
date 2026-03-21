@@ -15,24 +15,11 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: 'Joseph Schubert | Arachnologist & Systematic Biologist',
-  description: 'Dr Joseph Schubert is an arachnologist and systematic biologist dedicated to resolving the species boundaries and evolutionary histories of Australia\'s arachnid fauna.',
+  description: "Dr Joseph Schubert is an arachnologist and systematic biologist dedicated to resolving the species boundaries and evolutionary histories of Australia's arachnid fauna.",
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/icon.png',
+    apple: '/icon.png',
   },
 }
 
