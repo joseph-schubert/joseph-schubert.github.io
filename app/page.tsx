@@ -35,7 +35,7 @@ export default function Home() {
               I am an early-career systematist dedicated to resolving the species boundaries and evolutionary histories of Australia&apos;s arachnid fauna. My research integrates molecular and morphological data to provide robust taxonomic frameworks that support conservation and scientific communication.
             </p>
             <p className="text-neutral-700 leading-relaxed mb-6">
-              Currently, I oversee the maintenance and curation of the research collections at the Queensland Museum as the Collection Manager of Arachnology. I recently completed my PhD at the University of Sydney, where I conducted research on the integrative systematics of Australian peacock spiders and their allies.
+              Currently based at the Museums Victoria Research Institute, my work focuses primarily on the systematics, macroevolution, and taxonomy of jumping spiders (Salticidae) and huntsman spiders (Sparassidae). I completed my PhD at the University of Sydney, investigating the integrative systematics and courtship evolution of Australian peacock spiders and their relatives.
             </p>
             <p className="text-neutral-700 leading-relaxed">
               Beyond my work in the laboratory and in the field, I am a passionate advocate for science outreach. I have had the privilege of sharing the fascinating world of spiders with global audiences through outlets such as National Geographic, the BBC, and the ABC. Whether through formal taxonomy or public engagement, my goal is to highlight the incredible complexity and beauty of our often-overlooked invertebrate neighbours.
