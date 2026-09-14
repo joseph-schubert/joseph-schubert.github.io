@@ -39,7 +39,7 @@ export default function ProjectsPage() {
             <p className="text-neutral-700">
               Please{" "}
               <a
-                href="mailto:joseph.schubert@qm.qld.gov.au"
+                href="mailto:josephschubert3@yahoo.com"
                 className="text-neutral-900 underline underline-offset-4 hover:text-neutral-600 transition-colors"
               >
                 get in touch
