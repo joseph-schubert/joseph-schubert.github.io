@@ -13,7 +13,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-start gap-8 mb-12">
             <div className="w-40 h-40 md:w-48 md:h-48 relative flex-shrink-0 mx-auto md:mx-0">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Headshot-DNLvMYbp4qPy2LvHga3arbD2uAE3CO.jpg"
+                src="websiteheadshot.jpg"
                 alt="Dr Joseph Schubert"
                 fill
                 className="object-cover rounded-full"
